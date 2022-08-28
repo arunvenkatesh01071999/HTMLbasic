@@ -1,0 +1,13 @@
+.a2
+{
+    background-image: url('ice.jpg');
+    background-repeat: no-repeat;
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+}
+h1{
+     background-color: blue;
+     height: 100px;
+     width: 100px;
+}

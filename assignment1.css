@@ -1,0 +1,154 @@
+.container-fluid{
+    height: 400vh;
+}
+.img01{
+
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.row01{
+    background: linear-gradient(to right, #ffcc00 25%, #000000 25%);
+    
+    height: 100vh;
+}
+.row05{
+    height: 50vh;
+    background: linear-gradient(to top, #ffcc00 50%, #000000 50%);
+}
+
+.main-text{
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top:150px;
+    left:100px;
+
+}
+.main-text button{
+    height: 40px;
+    width: 100px;
+    margin: 10px;
+}
+.main-text button:hover{
+    background-color: gold;
+}
+.main-text input{
+
+    height: 40px;
+    width: 200px;
+    margin: 10px;
+
+}
+
+.second-text{
+    color:black;
+    height: 300px;
+    width: 700px;
+    text-align: center;
+    padding: 80px;
+} 
+
+.last-text h1{
+
+    text-shadow: 5px 5px 5px red;
+}
+
+.second-text h1{
+  
+    text-shadow: 5px 5px 5px red;
+
+}
+
+.one-div{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    color:white;
+    padding: 50px;
+}
+.third-div{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    color:white;
+    padding: 50px;
+    background-color: black;
+}
+
+.img-size{
+    background-image: url(" https://pbs.twimg.com/media/FUrFI0kXoAE1NpI?format=jpg&name=4096x4096");
+    height:300px;
+    width: 300px;
+    background-size: cover;
+    background-position: center;
+}
+.img-size2{
+    background-image: url(" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpkYFgpnUr-0uRU2IYC6aYecDt02H8Q_wRQ&usqp=CAU");
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    background-position: center;
+}
+
+.img-size3{
+
+   background-image:url(" https://mobilejazz.com/blog/wp-content/uploads/2015/10/App-Store-Success-56716934.jpg");
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+}
+.img-size4{
+   
+    background-image: url(" https://o365.vn/wp-content/uploads/digital-design-businessman-show-increase-market-graphic-scaled.jpg");
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+
+}
+
+.img-size5{
+   
+    background-image: url(" https://img.freepik.com/free-psd/5g-internet-concept-mock-up_23-2148428104.jpg?w=2000");
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+
+}
+
+.last-text{
+    height:300px;
+    width: 300px;
+    color: black;
+}
+
+.last-img{
+   background-image: url(" https://i2.wp.com/s1.bukalapak.com/bukalapak-kontenz-production/content_attachments/77206/original/cara_jualan_online_di_whatsapp_image_2.jpg?strip=all");
+   height: 300px;
+    width: 300px;
+    background-size: cover;
+    background-position: center;
+
+}
+.last-dot{
+    height: 200px;
+    width: 200px;
+    color: black;
+    padding:-10px;
+
+}
+
+.seconds-img{
+    background-image: url(" https://alphadigital.ai/wp-content/uploads/2021/06/Erik.png");
+    height: 500px;
+    width: 500px;
+}
+
+
+
+
+
+
+
